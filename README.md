@@ -1,2 +1,4 @@
-# programming-in-C
-Programming in C - Solutions to the book by Stephen G. Kochan (Third edition)
+# Programmin in C 
+Here I will list my solutions to the the book that helped me to learn C
+
+This might be uncomplete and with mistakes. Happy to hear feedback or get pull requests.
