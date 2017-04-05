@@ -1,4 +1,5 @@
 // Program to generate a table of triangular numbers
+// rewrite for to while
 
 #include <stdio.h>
 
@@ -12,9 +13,12 @@ int main (void)
 
     triangularNumber = 0;
     
-    for ( n = 1; n <= 10; ++n ) {
+    n = 1;
+
+    while ( n <= 10 ) {
          triangularNumber += n;
-         printf ("%2i          %i\n", n, triangularNumber);
+         printf (" %i          %i\n", n, triangularNumber);
+         ++n;
     }
 
     return 0;
