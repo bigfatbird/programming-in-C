@@ -1,6 +1,7 @@
 /*
-The program is about to display all the output in a single line
-At the end there is a new line character.
+
+3. What output would you expect from the following program?
+
 */
 
 #include <stdio.h>
@@ -13,3 +14,8 @@ int main (void) {
   printf ("\n");
   return 0;
 }
+
+/*
+The program is about to display all the output in a single line
+At the end there is a new line character.
+*/

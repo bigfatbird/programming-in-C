@@ -1,3 +1,7 @@
+/*
+  6. What output might you expect from the following program?
+*/
+
 #include <stdio.h>
 
 int main(void) {

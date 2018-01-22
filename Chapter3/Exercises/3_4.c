@@ -1,13 +1,18 @@
+/*
+4. Write a program that subtracts the value 15 from 87 and displays the result,
+   together with an appropriate message, at the terminal.
+*/
+
 #include <stdio.h>
 
-int main(void) {
-  int val1 = 87;
-  int val2 = 15;
-  int sum;
+int main (void) {
 
-  sum = val1 - val2;
+  int value1 = 15;
+  int value2 = 87;
 
-  printf("%i minus %i is %i\n", val1, val2, sum);
+  int result = value2 - value1;
 
-  return 0;
+  printf("The result of %i minus %i is %i\n", value2, value1, result);
+
+
 }
