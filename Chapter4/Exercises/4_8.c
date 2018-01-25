@@ -1,3 +1,7 @@
+/*
+  Round off an integer i to the next largest even multiple of j
+*/
+
 #include <stdio.h>
 
 int main (void) {
